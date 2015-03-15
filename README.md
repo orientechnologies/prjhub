@@ -1,2 +1,2 @@
 # prjhub
-Project Hub
+Project Hub is an Orient Technologies commercial project. No redistribution of source code is allowed.
